@@ -24,7 +24,15 @@
         </dependency>
         <dependency>
             <groupId>com.github.emraxxor.ivip</groupId>
+            <artifactId>ivip-common-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.emraxxor.ivip</groupId>
             <artifactId>ivip-common-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.emraxxor.ivip</groupId>
+            <artifactId>ivip-common-service</artifactId>
         </dependency>
         <dependency>
             <groupId>com.github.emraxxor.ivip</groupId>
